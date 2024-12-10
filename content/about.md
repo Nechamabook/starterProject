@@ -1,3 +1,7 @@
-# About Content v2
+# About my blog
+
+### Introduction
+
+This is an introduction to my **blog**
 
 [Back home](/)
